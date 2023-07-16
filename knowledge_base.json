@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "hi chat bot",
+      "answer": "hi vijay"
+    },
+    {
+      "question": "what is capital of india",
+      "answer": "new delhi"
+    },
+    {
+      "question": "who is called king of cricket",
+      "answer": "Sir Virat Kholi !!"
+    },
+    {
+      "question": "thank you ",
+      "answer": "Iam glad to help you vijay!!"
+    },
+    {
+      "question": "what is your favourite food ",
+      "answer": "biriyani"
+    },
+    {
+      "question": "what is your favourite color",
+      "answer": "red"
+    },
+    {
+      "question": "hi chatbot",
+      "answer": "hi vijay"
+    },
+    {
+      "question": "what is the captial of india",
+      "answer": "new delhi"
+    },
+    {
+      "question": "what is your favourite food",
+      "answer": "biriyani"
+    },
+    {
+      "question": "can you do my home work",
+      "answer": "no i can't do that"
+    }
+  ]
+}
